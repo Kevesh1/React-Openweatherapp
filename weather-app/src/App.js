@@ -7,7 +7,7 @@ import Weather from './components/weather'
 function App() {
 
   const [data, setData] = useState([]);
-  const apiKey = '59431bbb21bdc7b0684e492168580b91';
+  const apiKey = 'INSERT API KEY HERE';
   const [input, setInput] = useState("");
 
   
